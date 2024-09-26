@@ -1,0 +1,35 @@
+Serverless Chatbot with Lex:
+
+Here a short step-by-step guide for creating a chatbot with Amazon Lex.
+
+1. Sign up to AWS and log in to the AWS Management Console.
+
+2. Open Amazon Lex console and create a bot.
+
+3. Here we should select create a blank bot. Give a bot name as your wish. Need to do some settings and access the permissions.
+
+4. Continue on next.
+
+5. Configure bot settings in this we have to select a language (English US), Voice interaction None. This is only a text based application.
+
+6. Then click on done. Here bot will be created Successfully.
+
+7. Define Intents: Specify what the bot should do (e.g. Book a flight, Book a hotel etc...)
+
+8. Here we need to add the Utterances.
+
+9. Add Slots: Set up questions to gather user info (e.g. date, location...)
+
+10. Fulfillment- Go to Advanced Options, Select Success Response. Give a Message as Thankyou and update the Options.
+
+11. Save the Intent and Build it.
+
+Test the Bot to ensure it Works as expected.
+
+12. Amazon Lex is a Service for Building Conversation Interfaces.
+
+13. Chatbot is a Software Application designed to Simulate Conversation with Users.
+
+
+
+
